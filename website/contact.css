@@ -1,0 +1,76 @@
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(77, 202, 243);
+  }
+  
+  .w3-container {
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  .w3-light-grey {
+    background-color: #f2f2f2;
+  }
+  
+  .w3-padding-32 {
+    padding: 32px 0;
+  }
+  
+  .w3-padding-large {
+    padding: 64px 0;
+  }
+  
+  .w3-content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  h4 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 0 16px 0;
+    padding: 0;
+  }
+  
+  p {
+    font-size: 16px;
+    margin: 0 0 16px 0;
+    padding: 0;
+  }
+  
+  .w3-section {
+    margin: 0 0 16px 0;
+    padding: 0;
+  }
+  
+  .w3-input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 8px;
+    width: 100%;
+  }
+  
+  .w3-border {
+    border: 1px solid #ccc;
+  }
+  
+  .w3-black {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .w3-button {
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+  }

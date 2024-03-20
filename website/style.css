@@ -1,0 +1,50 @@
+
+body{  
+  background-image: url('caibg2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: auto;
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+}
+#bt{
+  bottom: 50%;
+}
+
+h1{
+  color:white;
+  font-weight:bold;
+  text-align: center;
+}
+
+.btn{
+  color:#fafafa;
+  background:rgba(0, 0, 0, 0.5);
+  padding:10px 20px;
+  font-size:12px;
+  text-decoration:none;
+  letter-spacing:2px;
+  text-transform:uppercase;
+}
+
+.btn:hover{
+  border:none;
+  background:rgba(0, 0, 0, 0.4);
+  background:#fff;
+  padding:20px 20px #000;
+  color:#1b1b1b;
+}
+
+.footer{
+  font-size:8px;
+  color:#fff;
+  clear:both;
+  display:block;
+  letter-spacing:5px;
+  border:1px solid #fff;
+  padding:5px;
+  text-decoration:none;
+  width:210px;
+  margin:auto;
+  margin-top:400px;
+}
